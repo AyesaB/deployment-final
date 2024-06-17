@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://gamingbolt.com/wp-content/uploads/2020/10/Destiny-2-Beyond-Light_02.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+#contactForm {
+    margin: auto;
+    /* margin-top: 50px; */
+    text-align: center;
+    background-color: #547d86;
+    max-width: 600px;
+    height: 350px;
+    background: transparent;
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px #656f71, -10px -10px 20px #ffffff;
+}
+
+.inputs {
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.imgs {
+    max-width: 150px;
+    max-height: 150px;
+    float: left;
+}
+
+#idCard {
+    text-align: center;
+    max-width: 600px;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+    /* background: linear-gradient(145deg, #baced0, #707c7e); */
+    background: transparent;
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px #656f71, -10px -10px 20px #ffffff;
+}
+
+.postText {
+    margin-right: 150px;
+    margin-top: 25px;
+}
